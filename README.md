@@ -142,3 +142,5 @@ I took the liberty of assuming a few things about the company. These assumptions
 * **Unstructured Audio & Transcript Accuracy:** Inconsistent call recording quality can affect downstream NLP accuracy during sentiment scoring.
 
 ## Additional Notes
+
+Overall, the architecture provides a practical foundation for turning fragmented complaint data into reliable, usable information while leaving room for the pipeline to evolve as the company's data and business needs grow.
