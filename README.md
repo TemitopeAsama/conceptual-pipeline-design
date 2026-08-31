@@ -11,10 +11,10 @@ This repository details a conceptual, end-to-end data pipeline designed to inges
 
 | Data Source | Data Format | Ingestion Strategy | Primary Destination |
 | :--- | :--- | :--- | :--- |
-| **SMS Complaints** | Unstructured Text | Event / Push (Webhooks) | Data Lake $\rightarrow$ Data Warehouse | 
-| **Social Media** | Semi-Structured (API) | Batch / Pull | Data Lake $\rightarrow$ Data Warehouse |
-| **Call Center Logs** | Unstructured Server Logs | Batch / Pull | Data Lake $\rightarrow$ Data Warehouse |
-| **Web Forms** | Semi-Structured / Files | Batch / Pull | Data Lake $\rightarrow$ Data Warehouse |
+| **SMS Complaints** | Unstructured Text | Event / Push (Webhooks) | Data Lake -> Data Warehouse | 
+| **Social Media** | Semi-Structured (API) | Batch / Pull | Data Lake -> Data Warehouse |
+| **Call Center Logs** | Unstructured Server Logs | Batch / Pull | Data Lake -> Data Warehouse |
+| **Web Forms** | Semi-Structured / Files | Batch / Pull | Data Lake -> Data Warehouse |
 
 ---
 
